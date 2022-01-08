@@ -7,6 +7,7 @@ UI Viewer Demo<br>
 Language
 --
 Python (Developed and test with version 3.8.5)
+JavaScript
 
 Package Requirements
 --
