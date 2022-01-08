@@ -105,7 +105,7 @@ class DartCrawlerWindow(QMainWindow):
                 node_id: str = jstree 노드 아이디
                 node_text: str = jstree 노드 텍스트 = 업종분류
                 parents: list of dict, dict element = {'id': 노드 아이디, 'text': 노드 텍스트 = 업종분류}
-                corp_names: list of str, str element = 해당 기업명
+                corp_info_arr: list of dict, dict element = {'name': 기업명, 'code': 기업 고유 번호, 'sector': 업종 id}
                 """
                 pass
 
